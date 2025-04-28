@@ -1,5 +1,5 @@
 About Me
-👋 Hi, I'm Cashuz DaGeneral., a multi-talented professional with a broad range of skills spanning technology, development, AI, and creative design. My passion is solving problems, building innovative solutions, and continually exploring new areas in tech.
+👋 Hi, I'm Ralph Johnson, a multi-talented professional with a broad range of skills spanning technology, development, AI, and creative design. My passion is solving problems, building innovative solutions, and continually exploring new areas in tech.
 
 💼 With experience in web development, game design, and AI-powered platforms, I enjoy creating tools and applications that improve user experiences and drive efficiency. Whether it's crafting intuitive user interfaces, building scalable backends, or designing intelligent systems, I’m always looking for ways to push the boundaries of technology.
 
